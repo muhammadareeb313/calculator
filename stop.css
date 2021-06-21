@@ -1,0 +1,46 @@
+body{
+    background-image:url(img/bgst.jpg);
+    background-repeat:no-repeat ;
+    background-position: center center;
+    background-size:100% ;
+    color: wheat;
+        padding-top: 20%;
+    }
+    #main{
+    background: #000;
+    text-align: center;
+    border: 5px solid wheat;
+    height: 260px;
+    border-radius: 260px;
+    width: 300px;
+    margin: 10px auto;
+     box-shadow: 5px 5px 5px 5px wheat;
+     padding-top:40px ;
+    }
+    
+    #stop{
+        margin-right: 45%;
+    box-shadow: none;
+    font-size: xx-large;
+    text-shadow:  5px 5px 10px wheat;
+    }
+    h1{
+        display: inline-block;
+        box-shadow: 5px 5px 5px wheat;
+        width: 60px;
+    }
+    button{
+        height: 30px;
+        font-size: large;
+        color: wheat;
+        background: #000;
+        border: 2px solid wheat;
+        margin: 1px;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px wheat;
+    }
+    
+    
+    .up{
+    margin-top: -10px;
+    }

@@ -1,0 +1,59 @@
+body{
+text-align: center;
+font-weight: bolder;
+margin-top: 10%;
+background-image:url(img/bg.jpg) ;
+background-repeat:no-repeat ;
+background-position: center center;
+background-size:100% ;
+}
+#container{
+    background-color: aqua;
+    width: 380px;
+    height: 300px;
+    padding-top:20px;
+    border: 7px solid rgb(47, 7, 87);
+    border-radius: 20px;
+    margin: 10px auto;
+    box-shadow: 5px 5px 5px 5px rgb(255, 255, 255);
+
+    
+}input{
+    width: 299px;
+    height: 40px;
+    border-radius: 7px;
+    font-size: xx-large;
+    color: rgb(88, 5, 172);
+    box-shadow: 3px 3px 5px rgb(88, 5, 172);
+
+    border: 5px solid rebeccapurple;
+
+}
+.cl{
+    width: 307px;
+    border-radius: 10px;
+    font-size: x-large;
+    margin-top:5px ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    border-radius: 10px;
+    margin-top:5px ;
+    width: 74px;
+    height: 40px;font-size: large;
+    border: 3px solid rebeccapurple;
+    color: rgb(88, 5, 172);
+    box-shadow: 5px 5px 5px rgb(88, 5, 172);
+    text-shadow:  3px 3px 5px  rgb(88, 5, 172);
+}
+a{
+    color: rgb(28, 3, 53);
+    text-shadow:  5px 5px 3px white;
+    text-decoration: none;
+}
+::placeholder {
+    color: rgb(88, 5, 172);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow:  3px 3px 5px  rgb(88, 5, 172);
+}
